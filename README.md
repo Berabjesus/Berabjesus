@@ -1,6 +1,6 @@
 # Hello Fellow Human!
 
-I'm Bereket A. Beshane, you can call me Bereket, pronounced as Ber - Cut.
+I'm Bereket A. Beshane, you can call me Bereket, pronounced as Bere - Cut.
 
 Here's a little about what I'm currently up to:
 
