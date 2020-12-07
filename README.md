@@ -10,7 +10,7 @@ Here's a little about what I'm currently up to:
 - 🔥 I work as a software engineer
 - 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
 - 🏗 I’m currently in the Microverse Community
-- 🧙🏻‍♂️ I'm currently learning RoR
+- 🧙🏻‍♂️ I'm currently working on JS and React
 - 👨🏻‍🎓 Ask me about Fullstack Development
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/bereket-beshane-a1b75a1a9/) or [Twitter](https://twitter.com/bereket_ababu_b)
