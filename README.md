@@ -11,12 +11,14 @@ Here's a little about what I'm currently up to:
 - 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
 - 🏗 I’m currently in the Microverse Community
 - 🧙🏻‍♂️ I'm currently working on React
-- 👨🏻‍🎓 Ask me about Fullstack Development
+- 👨🏻‍🎓 Ask me about Fullstack web Development 
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
 # Some Languages and Tools:
 
-<span align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
+
+<span align="left"> 
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
