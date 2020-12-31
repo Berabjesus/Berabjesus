@@ -15,9 +15,9 @@ Here's a little about what I'm currently up to:
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
 
-- The arrows in the quiver are listed below 
+#### The arrows in the quiver are listed below 
 
-## Programming Languages
+### Programming Languages
 <span align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/ruby/ruby-original-wordmark.svg" width="40" height="40">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -27,7 +27,7 @@ If you want to contact me, the best way is either through a [LinkedIn](https://w
   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </span>
 
-## Frameworks and Libraries
+### Frameworks and Libraries
 <span align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -37,26 +37,26 @@ If you want to contact me, the best way is either through a [LinkedIn](https://w
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40">
 </span>
 
-### Game Development Frameworks
+#### Game Development Frameworks
 
 <span align="left">
 <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>
 </span>
 
-### Testing Frameworks
+#### Testing Frameworks
 
 <span align="left">
 <img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">
 <img src = "https://api.iconify.design/file-icons:rspec.svg" width="40" height="40">
 </span>
 
-## Database
+### Database
 
 <span align="left">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </span>
 
-## Tools
+### Tools
 
 <span align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
