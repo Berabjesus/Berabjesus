@@ -35,23 +35,27 @@ If you want to contact me, the best way is either through a [LinkedIn](https://w
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </span>
+
 ### Game Development Frameworks
+
 <span align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>
 </span>
 
 ### Testing Frameworks
+
 <span align="left">
 <img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">
 <img src = "https://api.iconify.design/file-icons:rspec.svg" width="40" height="40">
 </span>
 
-### Database
+## Database
+
 <span align="left">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"><img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </span>
 
-### Tools
+## Tools
 
 <span align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
