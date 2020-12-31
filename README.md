@@ -14,7 +14,8 @@ Here's a little about what I'm currently up to:
 - 👨🏻‍🎓 Ask me about Fullstack web Development 
 
 If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
-# Some Programming Languages, Frameworks and Tools:
+
+- The arrows in the quiver are listed below 
 
 ## Programming Languages
 <span align="left">
