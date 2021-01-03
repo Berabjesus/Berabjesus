@@ -29,7 +29,7 @@ If you want to contact me, the best way is either through a [LinkedIn](https://w
 
 ### Frameworks and Libraries
 <span align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original.svg" alt="rails" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
