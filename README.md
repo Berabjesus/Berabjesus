@@ -4,9 +4,9 @@ I'm Bereket A. Beshane, you can call me Bereket, pronounced as Bere - Cut.
 
 Here's a little about what I'm currently up to:
 
-  [![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark)](https://github.com/Berabjesus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark)](https://github.com/Berabjesus/github-readme-stats)[![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark)](https://github.com/Berabjesus/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark)](https://github.com/Berabjesus/github-readme-stats)
+
 
 - 🔥 I work as a software engineer
 - 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
