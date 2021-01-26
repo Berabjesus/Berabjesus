@@ -38,20 +38,20 @@ If you want to contact me, the best way is either through a [LinkedIn](https://w
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40">
 </span>
 
-#### Game Development Frameworks
+#### Game Development
 
 <span align="left">
 <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>
 </span>
 
-#### Testing Frameworks
+#### Testing for Test Driven Development
 
 <span align="left">
 <img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">
 <img src = "https://api.iconify.design/file-icons:rspec.svg" width="40" height="40">
 </span>
 
-### Database
+### Databases
 
 <span align="left">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/ac557d6ff33ff370a5db99f97aeab35ea5c67fbd/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
