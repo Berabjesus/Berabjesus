@@ -38,18 +38,18 @@ If you want to contact me, the best way is either through a [LinkedIn](https://w
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40">
 </span>
 
-#### Game Development
+  ### Game Development
 
-<span align="left">
-<img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>
-</span>
+  <span align="left">
+  <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>
+  </span>
 
-#### Testing for Test Driven Development
+  ### Testing for Test Driven Development
 
-<span align="left">
-<img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">
-<img src = "https://api.iconify.design/file-icons:rspec.svg" width="40" height="40">
-</span>
+  <span align="left">
+  <img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">
+  <img src = "https://api.iconify.design/file-icons:rspec.svg" width="40" height="40">
+  </span>
 
 ### Databases
 
