@@ -14,9 +14,10 @@ Here's a little about what I'm currently up to:
 - 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
 - 👨🏻‍🎓 Ask me about Fullstack web Development 
 
-If you want to contact me, the best way is either through a [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
+If you want to contact me, the best way is through [email](berabjesus@gmail.com), [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
 
 #### The arrows in the quiver are listed below 
+
 
 ### Programming Languages
 <span align="left">
