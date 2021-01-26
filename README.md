@@ -6,7 +6,7 @@ Here's a little about what I'm currently up to:
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=light)](https://github.com/Berabjesus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=light)](https://github.com/Berabjesus/github-readme-stats)
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berabjesus" alt="bereket beshane" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berabjesus&rank=S,A,AA,AAA&no-bg=true" alt="bereket beshane" /></a> </p>
 
 - 🔥 I work as a software engineer
 - 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
