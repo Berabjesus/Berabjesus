@@ -8,7 +8,7 @@ Here's a little about what I'm currently up to:
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berabjesus&rank=S,A,AA,AAA&no-bg=true" alt="bereket beshane" /></a> </p>
 
-- 🔥 I work as a software engineer
+- 🔥 I am a fullstack developer
 - 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
 - 🏗 I’m currently in the Microverse Community
 - 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
