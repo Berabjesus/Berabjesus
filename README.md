@@ -16,7 +16,7 @@ Here's a little about what I'm currently up to:
 
 If you want to contact me, the best way is through [email](berabjesus@gmail.com), [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
 
-#### The arrows in the quiver are listed below 
+### The arrows in the quiver are listed below 
 
 
 ### Programming Languages
