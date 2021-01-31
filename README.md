@@ -12,7 +12,7 @@ Here's a little about what I'm currently up to:
 - 🦙 Pronouns: [He/Him/His](https://pronoun.is/he)
 - 🏗 I’m currently in the Microverse Community
 - 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
-- 👨🏻‍🎓 Ask me about Fullstack web Development 
+- 👨🏻‍🎓 Ask me about Fullstack web Development and software engineering
 
 If you want to contact me, the best way is through [email](berabjesus@gmail.com), [LinkedIn](https://www.linkedin.com/in/bereketbeshane/) or [Twitter](https://twitter.com/bereket_ababu_b)
 
