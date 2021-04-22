@@ -69,3 +69,13 @@ If you want to contact me, the best way is through [email](berabjesus@gmail.com)
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> 
 </span>
+
+
+|  Project     |   Languages and Frameworks  | Testing |
+| -----------   | --------| ----------- | 
+|   Rogue Tanks     | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/phaserio/phaserio-icon.svg" alt="phaser" width="40" height="40"/>  | <img src = "https://api.iconify.design/logos-jest.svg" width="40" height="40">   |
+|   /signup     | Post    |     |
+|/watchlists    | Post    |   |
+|/watchlists    | GET     |       |
+|/watchlists/:id| PUT     |    |
+|/watchlists/:id| DELETE  |     |
