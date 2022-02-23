@@ -7,7 +7,6 @@ Here's a little about what I'm currently up to:
 [![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark)](https://github.com/Berabjesus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark)](https://github.com/Berabjesus/github-readme-stats)
 
 - 🔥 I am a fullstack developer
-- 🏗 I’m currently in the Microverse Community
 - 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
 - 👨🏻‍🎓 Ask me about Fullstack web Development and software engineering
 
