@@ -4,7 +4,9 @@ I'm Bereket A. Beshane, you can call me Bereket, pronounced as Bere - Cut.
 
 Here's a little about what I'm currently up to:
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Berabjesus/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark&langs_count=8)](https://github.com/Berabjesus/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=Berabjesus&show_icons=true&line_height=17&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/Berabjesus/github-readme-stats)
+
+[//]: <> ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark&langs_count=8)](https://github.com/Berabjesus/github-readme-stats))
 
 - 🔥 I am a fullstack developer
 - 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
