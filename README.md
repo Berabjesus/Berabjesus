@@ -9,7 +9,6 @@ Here's a little about what I'm currently up to:
 <!--- ([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berabjesus&show_icons=true&layout=compact&theme=dark&langs_count=8)](https://github.com/Berabjesus/github-readme-stats)) -->
 
 - 🔥 I am a fullstack developer
-- 🧙🏻‍♂️ I'm currently working on Phaser Game development and React
 - 👨🏻‍🎓 Ask me about Fullstack web Development and software engineering
 
 If you want to contact me, the best way is through [email](bereketbeshane@gmail.com) or [LinkedIn](https://www.linkedin.com/in/bereketbeshane/)
